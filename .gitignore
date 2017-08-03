@@ -1,6 +1,5 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+Um projeto deve:
+
+Não "reinventar a roda", isto é, reutilizar soluções;
+Decompor o todo em partes e prover diferentes visões da coisa;
+Refinar e descrever com mais detalhes cada parte ou visão da coisa, de modo a prover orientação para a contrução de cada detalhe;
